@@ -34,7 +34,7 @@ body{
 }
 
 h1{
-  margin: 0 0 10px 0;
+  margin: 0 0 12px 0;
   font-size: clamp(28px, 4vw, 44px);
   letter-spacing: .2px;
 }
